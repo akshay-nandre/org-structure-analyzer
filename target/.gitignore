@@ -1,0 +1,8 @@
+/.project
+/.settings/
+/.metadata/
+target/
+*.class
+*.log
+.idea/
+*.DS_Store
